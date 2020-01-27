@@ -1,42 +1,42 @@
 [
   {
-    "image": "./img/courage.jpeg",
-    "id": 0,
-    "clicked": false
-  },
-  {
-    "url": "./img/bobby.jpeg",
+    "image": "/img/courage.jpeg",
     "id": 1,
     "clicked": false
   },
   {
-    "url": "./img/eustice.jpeg",
+    "image": "/img/bobby.jpeg",
     "id": 2,
     "clicked": false
   },
   {
-    "url": "./img/muriel.jpeg",
+    "image": "/img/eustice.jpeg",
     "id": 3,
     "clicked": false
   },
   {
-    "url": "./img/fred.jpeg",
+    "image": "./img/muriel.jpeg",
     "id": 4,
     "clicked": false
   },
   {
-    "url": "./img/katz.jpg",
+    "image": "./img/fred.jpeg",
     "id": 5,
     "clicked": false
   },
   {
-    "url": "./img/shirley.jpeg",
+    "image": "./img/katz.jpg",
     "id": 6,
     "clicked": false
   },
   {
-    "url": "./img/leQuack.jpg",
+    "image": "./img/shirley.jpeg",
     "id": 7,
+    "clicked": false
+  },
+  {
+    "image": "./img/leQuack.jpg",
+    "id": 8,
     "clicked": false
   }
 ]
